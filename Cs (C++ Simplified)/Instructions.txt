@@ -1,0 +1,59 @@
+Thank you for using Cs! 
+Made by Markuss Demidovs.
+
+Instructions:
+QUICK CONVERSION
+std:: is removed.
+string = text
+int = number
+double = fractional
+bool / boolean = turner
+cout = input
+cin = output
+
+FULL EXPLAINING
+
+This was made to simplify coding in C++!
+
+
+VARIABLES:
+To create text / string variables, use 
+
+text textName = "YOUR TEXT HERE"
+// text name = "Markuss"
+
+To create number / intiger variables, use
+
+number numberName = INSERT A NUMBER HERE
+// number age = 1
+
+To create a number / integer with fractionals, use
+
+fractional fractionalName = INSERT A NUMBER WITH FRACTIONALS HERE.
+fractional grade = 8.5
+
+To create a bool / boolean / True False / Switch, use
+
+turner turnerOn = true / false;
+turner student = true;
+
+
+COMMAND LINE:
+
+To make text show up in the command line, use
+output << "YOUR TEXT HERE!";
+output << "Hello, how are you?";
+
+If you want to make a new line, aka clearing space so the next 
+text doesn't get stuck together with the last one, use:
+
+output << "TEXT HERE" << endl;
+endl = end line!
+
+
+
+To add user input, add a text variable, and use:
+text inputStorer;
+input >> inputStorer;
+
+THANK YOU!
