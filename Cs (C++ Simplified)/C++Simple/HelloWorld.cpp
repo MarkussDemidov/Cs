@@ -17,11 +17,11 @@
 	numTest += 1;
 	fractional fracTest = 1.3;
 	turner turnTest = true;
-	cout << "Hello world!" << endl;
-	cout << textTest <<  '\n';
-	cout << numTest << '\n';
-	cout << fracTest << '\n';
-	cout << turnTest << '\n';
+	output << "Hello world!" << endl;
+	output << textTest <<  '\n';
+	output << numTest << '\n';
+	output << fracTest << '\n';
+	output << turnTest << '\n';
  }
 
 
